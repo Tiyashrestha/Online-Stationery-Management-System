@@ -696,8 +696,10 @@ int main()
 		}
         break;
     	}
-    } while (choice != 0);
+    } while (choice <=4);
     cout << "Thank you for visiting our store " << endl;
+    cout<<" :)";
 	return 0;
 }
+
 
